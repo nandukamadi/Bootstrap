@@ -1,0 +1,30 @@
+p{
+	color: grey;
+	font-size: 15px;
+	padding-left: 30px;
+}
+.c{
+	height: 900px;
+	width: 1350px;
+	background-color: white;
+}
+.ca{
+	height: 900px;
+	width: 650px;
+	background-color: white;
+	float: left;
+}
+.cb{
+	height: 900px;
+	width: 700px;
+	background-color: grey;
+	float: left;
+}
+.a{
+	padding-left: 70px;
+}
+.b{
+	color: grey;
+	font-size: 15px;
+	padding-left: 70px;
+}
